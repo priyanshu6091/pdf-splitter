@@ -1,7 +1,6 @@
 
 # 📄 PDF Splitter & Merger
 
-![Project Banner](https://via.placeholder.com/1200x400?text=PDF+Splitter+%26+Merger)  
 
 ## 🚀 Overview
 PDF Splitter & Merger is a **full-stack web application** that allows users to:
@@ -32,7 +31,10 @@ It is built using the **MERN stack (MongoDB, Express, React, Node.js)** with **p
 
 ## 📸 Screenshots
 ### 🎨 UI Preview
-![PDF Tool Screenshot](https://via.placeholder.com/800x400?text=PDF+Tool+UI)  
+![image](https://github.com/user-attachments/assets/d9b04d07-eeb4-40c8-9677-ab99456d0b34)
+![image](https://github.com/user-attachments/assets/a3aeb481-b704-49a4-a559-48da5fa23e4b)
+
+
 *Minimalistic and professional design*
 
 ---
