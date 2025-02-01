@@ -42,7 +42,7 @@ It is built using the **MERN stack (MongoDB, Express, React, Node.js)** with **p
 ## ⚡ Installation & Setup
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/pdf-tool.git
+git clone https://github.com/priyanshu6091/pdf-tool.git
 cd pdf-tool
 ```
 
@@ -123,7 +123,7 @@ Feel free to use and modify it.
 
 ## 🌟 Support & Feedback
 If you like this project, give it a ⭐ on GitHub!  
-For issues & suggestions, open an [issue](https://github.com/yourusername/pdf-tool/issues).
+For issues & suggestions, open an [issue](https://github.com/priyanshu6091/pdf-tool/issues).
 
 ---
 🚀 **Happy Coding!** 💙
